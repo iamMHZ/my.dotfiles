@@ -1,7 +1,7 @@
 
 ### First Things First
-https://github.com/neovim/neovim
-https://neovim.io/doc/user/motion.html
++ https://github.com/neovim/neovim
++ https://neovim.io/doc/user/motion.html
 
 
 ### Youtube Videos
@@ -33,8 +33,8 @@ https://neovim.io/doc/user/motion.html
 + https://github.com/nvim-lua/kickstart.nvim
 
 ### IntelliJ IDEA
-+ https://github.com/JetBrains/ideavim
++ [ideavim](https://github.com/JetBrains/ideavim)
 
 ### Visual Studio Code
-+ https://github.com/mfussenegger/nvim-dap
++ [VSCodeVim](https://github.com/VSCodeVim/Vim)
 
