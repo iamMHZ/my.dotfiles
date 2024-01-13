@@ -1,7 +1,7 @@
 
 ### First Things First
 + [neovim](https://github.com/neovim/neovim)
-+ [motion](https://neovim.io/doc/user/motion.html)
++ [motions](https://neovim.io/doc/user/motion.html)
 
 ### Plugins
 + [ThePrimeagen-init.lua](https://github.com/ThePrimeagen/init.lua)
